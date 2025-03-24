@@ -1,0 +1,7 @@
+$env:GH_PAT=""
+$env:BBS_USERNAME=""
+$env:BBS_PASSWORD=""
+$env:AZURE_STORAGE_CONNECTION_STRING=""
+
+
+
